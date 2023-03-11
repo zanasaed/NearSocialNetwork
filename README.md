@@ -6,4 +6,4 @@ In this repository, I have placed the required files for use in the gephi progra
 
 
 * If you want to see the final result, use the ge.gephi file.
-* Use the rootnear.ge file to view the network graph around the rootnearge.gephi. 
+* Use the rootnearge.gephi file to view the network graph around the root.near   
